@@ -6,11 +6,11 @@
 ⚡ SKILLS:
 
 - Cloud platform:
-    - AWS Cloud
+    - Azure & AWS Cloud
 - Operating Systems:
-    - RedHat Linux Release 7.x ,8.x
-    - Ubuntu 18.04, 20.04
-    - CentOS 7.x
+    - RedHat Linux 
+    - Ubuntu 
+    - CentOS
 - Scripting Languages:
     - Bash Scripting   
 - Configuration Management:
@@ -20,7 +20,7 @@
 - Web Servers:
     - Apache
 - Artifact Repository: 
-    - Sonatype Nexus
+    - Nexus
 - Continuous Integeration/Continuous Deployment:
     - Jenkins
 - Containerization:
