@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krishnendu VP
-- 👀 I’m interested in DevOps, Automation & Cloud computing
-- 🌱 I’m currently learning everything I can from free resources in Youtube and Tech blogs
+- 👀 I’m interested in Server administration, DevOps, Automation & Cloud computing
+- 🌱 I’m currently pursing MSc. Cloud Computing from ATU, Ireland. Interested in learning "everything" I can from free resources in Youtube and Tech blogs
 - 📫 How to reach me via https://www.linkedin.com/in/krishnenduvp/
 
 ⚡ SKILLS:
@@ -20,12 +20,10 @@
     - Git 
 - Web Servers:
     - Apache
-- Artifact Repository: 
-    - Nexus
 - Continuous Integeration/Continuous Deployment:
-    - Jenkins
+    - Jenkins - Beginner 
 - Containerization:
-    - Docker
+    - Docker - Beginner 
 
 
 ⚡ Certifications:
